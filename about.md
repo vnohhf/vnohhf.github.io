@@ -36,8 +36,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 
 ## Awards
-+ 2021 &emsp;&emsp;&emsp;&emsp;  National scholarship of China
-+ 2020, 2022 &emsp;              Academic first-class scholarship (Beijing Normal University)
++ 2021 &emsp;&emsp;&emsp;&ensp;&nbsp;  National scholarship of China
++ 2020, 2022 &emsp;                    Academic first-class scholarship (Beijing Normal University)
 
 
 ## Publications
