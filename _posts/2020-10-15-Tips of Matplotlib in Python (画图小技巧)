@@ -1,3 +1,12 @@
+---
+layout: post
+title: Tips of Matplotlib in Python (画图小技巧)
+tags: [python,matplotlib]
+categories: [Python]
+toc:  true
+math: true
+---
+
 # Tips of Matplotlib in Python
 ### x轴反向
 `plt.gca().invert_xaxis()`  
