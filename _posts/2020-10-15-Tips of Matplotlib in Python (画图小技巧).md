@@ -25,26 +25,23 @@ cax = fig.add_axes([0.925, 0.1, 0.025, 0.85])
 cb = plt.colorbar(im,cax=cax)
 {% endhighlight %}
 
-### 自定义颜色轴需要显示的刻度（如果是对数坐标，需要第二行代码）
+### 自定义颜色轴需要显示的刻度
+（如果是对数坐标，需要第二行代码）
 {% highlight python %}
 cb = plt.colorbar(im, ticks=[0.05,0.1,0.2,0.3])
 cb.set_ticklabels([0.05,0.1,0.2,0.3])
 {% endhighlight %}
 
-### 设置颜色图colormap上下限以外的值的颜色，这样做会改变该cmap的默认值
-{% highlight python %}
-cb = plt.colorbar(im, cax=cax)
-cb.cmap.set_under('gray', 0.7)
-cb.cmap.set_over('r')
-cb.cmap.set_bad('w')
-{% endhighlight %}
-
-### 设置颜色图colormap的bad/NaN值颜色，用copy不改变该cmap的默认值
+### 设置颜色图colormap上下限以外的值的颜色，bad/NaN值颜色
+用copy不改变该cmap的默认值
 {% highlight python %}
 import copy
 import matplotlib
-cmap = copy.copy(matplotlib.cm.Spectral_r)
-cmap.set_bad('gray',0.7)
+cmap = copy.copy(matplotlib.cm.Spectral) #拷贝Spectral这个colormap
+cmap.set_under('gray',0.7) #值低于下限的颜色，默认为cmap中的最小值
+cmap.set_over('gray',0.7)  #值高于上限的颜色
+cmap.set_bad('gray',0.7)   #NaN值颜色
+plt.imshow(im, cmap=cmap)
 {% endhighlight %}
 
 
