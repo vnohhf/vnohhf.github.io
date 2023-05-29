@@ -7,7 +7,38 @@ toc:  true
 math: true
 ---
 
-# Tips of Matplotlib in Python
+# colorbar相关
+### imshow设置颜色范围
+{% highlight python %}
+ax.imshow(data, vmin = vm0, vmax = vm1)
+{% endhighlight %}
+
+### 对数颜色轴
+{% highlight python %}
+ax.imshow(data, norm = matplotlib.colors.LogNorm(vmin=vm0, vmax=vm1))
+{% endhighlight %}
+
+### 自定义颜色轴需要显示的刻度（如果是对数坐标，需要第二行代码）
+`cb = plt.colorbar(im, ticks=[0.05,0.1,0.2,0.3])`
+`cb.set_ticklabels([0.05,0.1,0.2,0.3])`
+
+### 设置颜色图colormap上下限以外的值的颜色，这样做会改变该cmap的默认值
+{% highlight python %}
+cb = plt.colorbar(im, cax=cax)
+cb.cmap.set_under('gray', 0.7)
+cb.cmap.set_over('r')
+cb.cmap.set_bad('w')
+{% endhighlight %}
+
+### 设置颜色图colormap的bad/NaN值颜色，用copy不改变该cmap的默认值
+{% highlight python %}
+import copy
+import matplotlib
+cmap = copy.copy(matplotlib.cm.Spectral_r)
+cmap.set_bad('gray',0.7)
+{% endhighlight %}
+
+# 画布布局相关
 ### x轴反向
 `plt.gca().invert_xaxis()`  
 `ax.invert_xaxis()`
@@ -21,9 +52,6 @@ math: true
 ### imshow自定义长宽比（像素不固定为正方形/自动拉伸像素）
 `ax.imshow(data, aspect='auto')`
 
-### 自定义颜色轴需要显示的刻度（如果是对数坐标，需要第二行代码）
-`cb = plt.colorbar(im, ticks=[0.05,0.1,0.2,0.3])`
-`cb.set_ticklabels([0.05,0.1,0.2,0.3])`
 
 ### 显示坐标网格（只对主刻度显示）
 `plt.grid(True,ls=':',lw=0.2,zorder=1,color='dimgray', which="major")`
@@ -66,16 +94,6 @@ ax.set_yscale('log')
 plt.imshow(origin='lower')
 {% endhighlight %}
 
-### imshow设置颜色范围
-{% highlight python %}
-ax.imshow(data, vmin = vm0, vmax = vm1)
-{% endhighlight %}
-
-### 对数颜色轴
-{% highlight python %}
-ax.imshow(data, norm = matplotlib.colors.LogNorm(vmin=vm0, vmax=vm1))
-{% endhighlight %}
-
 ### 对齐图中x/y/所有标签
 {% highlight python %}
 fig.align_xlabels()
@@ -85,22 +103,6 @@ fig.align_labels()
 ### 图的右侧添加刻度和标签
 {% highlight python %}
 ax.tick_params(right = True, labelright = True)
-{% endhighlight %}
-
-### 设置颜色图colormap上下限以外的值的颜色，这样做会改变该cmap的默认值
-{% highlight python %}
-cb = plt.colorbar(im, cax=cax)
-cb.cmap.set_under('gray', 0.7)
-cb.cmap.set_over('r')
-cb.cmap.set_bad('w')
-{% endhighlight %}
-
-### 设置颜色图colormap的bad/NaN值颜色，用copy不改变该cmap的默认值
-{% highlight python %}
-import copy
-import matplotlib
-cmap = copy.copy(matplotlib.cm.Spectral_r)
-cmap.set_bad('gray',0.7)
 {% endhighlight %}
 
 ### imshow保存图片时候像素边界模糊/串色的问题，把默认的反锯齿插值设为none
