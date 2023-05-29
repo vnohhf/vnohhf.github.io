@@ -2,10 +2,10 @@
 title: Ruoyi, Zhang
 description: Personal Homepage
 url: https://vnohhf.github.io/
-avatar: /avatar.jpeg
+avatar: /手绘月球.JPG
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /月出.png
 
 # Gems
 plugins:
