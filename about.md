@@ -51,18 +51,19 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 ## Talks
 1.	**7th Interstellar Physics and Chemistry Symposium**  
     *Study of the properties of DIBs based on LAMOST, APOGEE and Gaia data*  
-    Huaibei, China, Jul, 2019
+    <div style="text-align:right;"> Huaibei, China, Jul, 2019 </div>
 2.	Chinese Astronomical Society 2020 Annual Academic Conference  
     *Detections of Dust in the Outskirts of M31 and M33*   
-    Beijing, China, Oct, 2020
+    <div style="text-align:right;"> Beijing, China, Oct, 2020 </div>
 3.	**8th Interstellar Physics and Chemistry Symposium**    
     *Large-scale 3D distribution of DIB based on APOGEE and Gaia data*  
-    Zhuhai, China, Jan, 2021
+    <div style="text-align:right;"> Zhuhai, China, Jan, 2021 </div>
 4.	**9th Interstellar Physics and Chemistry Symposium**    
     *Empirical temperature and extinction dependent extinction coefficients and 3D extinction law*  
-    Yichang, China, Aug, 2022
+    <div style="text-align:right;"> Yichang, China, Aug, 2022 </div>
 5.	**CSST 2022/23 Annual Scientific Meeting**    
-    *On Precise Correction of the Milky Way Dust Extinction* <div style="text-align:right;"> Beijing, China, Mar, 2023</div>
+    *On Precise Correction of the Milky Way Dust Extinction*  
+    <div style="text-align:right;"> Beijing, China, Mar, 2023 </div>
 6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society**  
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Wuhan, China, Apr, 2023 </div>
