@@ -7,7 +7,7 @@ toc:  true
 math: true
 ---
 
-# colorbar相关
+# 颜色棒(colorbar)相关
 
 ### imshow设置颜色范围
 {% highlight python %}
@@ -45,7 +45,7 @@ plt.imshow(im, cmap=cmap)
 {% endhighlight %}
 
 
-# 画布布局相关
+# 画布(fig)布局相关
 
 ### 隐藏空白子图
 {% highlight python %}
