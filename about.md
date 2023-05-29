@@ -48,17 +48,17 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 5.	Xu, S., Yuan, H., **Zhang, R.**, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
 
 ## Talks
-1.	**7th Interstellar Physics and Chemistry Symposium** (Huaibei, China)
+1.	**7th Interstellar Physics and Chemistry Symposium** (Huaibei, China)  
     *Study of the properties of DIBs based on LAMOST, APOGEE and Gaia data* (Jul 2019)
-2.	Chinese Astronomical Society 2020 Annual Academic Conference (Beijing, China)
+2.	Chinese Astronomical Society 2020 Annual Academic Conference (Beijing, China)  
     *Detections of Dust in the Outskirts of M31 and M33* (Oct 2020)
-3.	**8th Interstellar Physics and Chemistry Symposium** (Zhuhai, China)
+3.	**8th Interstellar Physics and Chemistry Symposium** (Zhuhai, China)  
     *Large-scale 3D distribution of DIB based on APOGEE and Gaia data* (Jan 2021)
-4.	**9th Interstellar Physics and Chemistry Symposium** (Yichang, China)
+4.	**9th Interstellar Physics and Chemistry Symposium** (Yichang, China)  
     *Empirical temperature and extinction dependent extinction coeﬀicients and 3D extinction law* (Aug 2022)
-5.	**CSST 2022/23 Annual Scientific Meeting** (Beijing, China)
+5.	**CSST 2022/23 Annual Scientific Meeting** (Beijing, China)  
     *On Precise Correction of the Milky Way Dust Extinction* (Mar 2023)
-6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society** (Wuhan, China)
+6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society** (Wuhan, China)  
     *On Precise Correction of the Milky Way Dust Extinction* (Apr 2023)
 
 ## Hobbies
