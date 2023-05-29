@@ -34,14 +34,10 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 3.	### [Empirical Temperature- and Extinction-Dependent Extinction Coefficients](https://iopscience.iop.org/article/10.3847/1538-4365/ac9dfa) <sub>*(Published in ApJS)*</sub>
     We have obtained accurate dust reddening from far-ultraviolet to the mid-infrared for up to 5 million stars by the star-pair algorithm based on LAMOST stellar parameters along with GALEX, Pan-STARRS 1, Gaia, SDSS, 2MASS, and WISE photometric data. And we derived the empirical reddening coefficients for 21 colors both in the traditional (single valued) way and as a function of \\\({\rm T_{eff}}\\\) and E(B-V). Comparisons with measurements in the literature show that the \\\({\rm T_{eff}}\\\) - and E(B-V)-dependent coefficients explain the discrepancies between different measurements naturally, i.e., using sample stars of different temperatures and reddening. A Python package [`extinction_coefficient`](https://github.com/vnohhf/extinction_coefficient) is also provided for the usage of the coefficients.
 
-    
+
 ## Awards
-+ 2021 &emsp;&emsp;&emsp;&emsp;  National scholarship
-+ 2020, 2022 &emsp;              Academic first-class scholarship
-
-
-## Hobbies
-Chinese calligraphy, biology, movies, and pure music (especially postrock and Ambient).
++ 2021 &emsp;&emsp;&emsp;&emsp;  National scholarship of China
++ 2020, 2022 &emsp;              Academic first-class scholarship (Beijing Normal University)
 
 
 ## Publications
@@ -50,3 +46,21 @@ Chinese calligraphy, biology, movies, and pure music (especially postrock and Am
 3.	**Zhang, R.** and Yuan, H., 2022. Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE pass¬bands. The Astrophysical Journal Supplement Series 264.1 (2022): 14.
 4.	Yang, L., Yuan, H., **Zhang, R.**, Niu, Z., Huang, Y., Duan, F. and Fang, Y., 2021. Correction to the photometric magnitudes of the Gaia Early Data Release 3. The Astrophysical Journal Letters, 908(2), p.L24.
 5.	Xu, S., Yuan, H., **Zhang, R.**, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
+
+## Talks
+1.	**7th Interstellar Physics and Chemistry Symposium** (Huaibei, China)
+    *Study of the properties of DIBs based on LAMOST, APOGEE and Gaia data* (Jul 2019)
+2.	Chinese Astronomical Society 2020 Annual Academic Conference (Beijing, China)
+    *Detections of Dust in the Outskirts of M31 and M33* (Oct 2020)
+3.	**8th Interstellar Physics and Chemistry Symposium** (Zhuhai, China)
+    *Large-scale 3D distribution of DIB based on APOGEE and Gaia data* (Jan 2021)
+4.	**9th Interstellar Physics and Chemistry Symposium** (Yichang, China)
+    *Empirical temperature and extinction dependent extinction coeﬀicients and 3D extinction law* (Aug 2022)
+5.	**CSST 2022/23 Annual Scientific Meeting** (Beijing, China)
+    *On Precise Correction of the Milky Way Dust Extinction* (Mar 2023)
+6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society** (Wuhan, China)
+    *On Precise Correction of the Milky Way Dust Extinction* (Apr 2023)
+
+## Hobbies
+Chinese calligraphy, biology, movies, and pure music (especially postrock and Ambient).
+
