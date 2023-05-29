@@ -41,11 +41,11 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 
 ## Publications
-1.	**Ruoyi, Z**. and Haibo, Y., 2020. Detections of Dust in the Outskirts of M31 and M33. The Astrophysical Journal Letters, 905(2), p.L20.
-2.	**Zhang, R.Y.**, Yuan, H.B., Liu, X.W., Xiang, M.S., Huang, Y. and Chen, B.Q., 2022. Stellar loci IV. red giant stars. Research in Astronomy and Astrophysics, 21(12), p.319.
-3.	**Zhang, R.** and Yuan, H., 2022. Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE pass¬bands. The Astrophysical Journal Supplement Series 264.1 (2022): 14.
-4.	Yang, L., Yuan, H., **Zhang, R.**, Niu, Z., Huang, Y., Duan, F. and Fang, Y., 2021. Correction to the photometric magnitudes of the Gaia Early Data Release 3. The Astrophysical Journal Letters, 908(2), p.L24.
-5.	Xu, S., Yuan, H., **Zhang, R.**, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
+1.	<u>**Ruoyi, Z.**</u> and Haibo, Y., 2020. Detections of Dust in the Outskirts of M31 and M33. The Astrophysical Journal Letters, 905(2), p.L20.
+2.	<u>**Zhang, R.Y.**</u>, Yuan, H.B., Liu, X.W., Xiang, M.S., Huang, Y. and Chen, B.Q., 2022. Stellar loci IV. red giant stars. Research in Astronomy and Astrophysics, 21(12), p.319.
+3.	<u>**Zhang, R.**</u> and Yuan, H., 2022. Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE pass¬bands. The Astrophysical Journal Supplement Series 264.1 (2022): 14.
+4.	Yang, L., Yuan, H., <u>**Zhang, R.**</u>, Niu, Z., Huang, Y., Duan, F. and Fang, Y., 2021. Correction to the photometric magnitudes of the Gaia Early Data Release 3. The Astrophysical Journal Letters, 908(2), p.L24.
+5.	Xu, S., Yuan, H., <u>**Zhang, R.**</u>, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
 
 ## Talks
 1.	**7th Interstellar Physics and Chemistry Symposium**  
@@ -58,7 +58,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
     *Large-scale 3D distribution of DIB based on APOGEE and Gaia data*  
     Zhuhai, China, Jan, 2021
 4.	**9th Interstellar Physics and Chemistry Symposium**    
-    *Empirical temperature and extinction dependent extinction coeﬀicients and 3D extinction law*  
+    *Empirical temperature and extinction dependent extinction coefficients and 3D extinction law*  
     Yichang, China, Aug, 2022
 5.	**CSST 2022/23 Annual Scientific Meeting**    
     *On Precise Correction of the Milky Way Dust Extinction* 
