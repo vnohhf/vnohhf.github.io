@@ -13,9 +13,9 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 ## Education  
 2019.9 – present ｜ Department of Astronomy, Beijing Normal University ｜ Doctor  
 2015.9 – 2019.6 &nbsp;｜ Department of Astronomy, Beijing Normal University ｜ Master  
-2012.1 – 2015.6 &nbsp;｜ Pingxiang Middle School
-(Supervisor: Haibo, Yuan)
-
+<div style="text-align:right;">
+    (Supervisor: Haibo, Yuan)
+</div>
 
 ## Research Interests
 Interstellar dust, diffuse interstellar bands, and the large-scale structure of the Milky way.
