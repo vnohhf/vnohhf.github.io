@@ -52,7 +52,7 @@ plt.imshow(im, cmap=cmap)
 ax.set_visible(False)
 {% endhighlight %}
 
-### 对齐图中x/y/所有标签
+### 对齐图中x/y/所有轴标签
 {% highlight python %}
 fig.align_xlabels()
 fig.align_labels()
@@ -84,7 +84,7 @@ ax.set_yscale('log')
 
 ### 关闭、隐藏x轴刻度标签
 {% highlight python %}
-plt.setp(ax[i].get_xticklabels(), visible=False)
+plt.setp(ax.get_xticklabels(), visible=False)
 {% endhighlight %}
 
 ### 关闭y轴主/次刻度
@@ -124,7 +124,7 @@ ax.imshow(data, aspect='auto')
 ### 显示坐标网格（只对主刻度显示）
 {% highlight python %}
 plt.grid(True,ls=':',lw=0.2,zorder=1,color='dimgray', which="major")
-#只画x轴的网格
+# 若只画x轴的网格
 ax.xaxis.grid(True)
 {% endhighlight %}
 
