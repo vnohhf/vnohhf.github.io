@@ -52,7 +52,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 1.	**7th Interstellar Physics and Chemistry Symposium**  
     *Study of the properties of DIBs based on LAMOST, APOGEE and Gaia data*  
     <div style="text-align:right;"> Huaibei, China, Jul, 2019 </div>
-2.	Chinese Astronomical Society 2020 Annual Academic Conference  
+2.	**Chinese Astronomical Society 2020 Annual Academic Conference**  
     *Detections of Dust in the Outskirts of M31 and M33*   
     <div style="text-align:right;"> Beijing, China, Oct, 2020 </div>
 3.	**8th Interstellar Physics and Chemistry Symposium**    
