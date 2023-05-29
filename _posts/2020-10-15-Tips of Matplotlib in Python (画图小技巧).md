@@ -19,8 +19,10 @@ ax.imshow(data, norm = matplotlib.colors.LogNorm(vmin=vm0, vmax=vm1))
 {% endhighlight %}
 
 ### 自定义颜色轴需要显示的刻度（如果是对数坐标，需要第二行代码）
-`cb = plt.colorbar(im, ticks=[0.05,0.1,0.2,0.3])`
-`cb.set_ticklabels([0.05,0.1,0.2,0.3])`
+{% highlight python %}
+cb = plt.colorbar(im, ticks=[0.05,0.1,0.2,0.3])
+cb.set_ticklabels([0.05,0.1,0.2,0.3])
+{% endhighlight %}
 
 ### 设置颜色图colormap上下限以外的值的颜色，这样做会改变该cmap的默认值
 {% highlight python %}
@@ -38,35 +40,51 @@ cmap = copy.copy(matplotlib.cm.Spectral_r)
 cmap.set_bad('gray',0.7)
 {% endhighlight %}
 
+
 # 画布布局相关
 ### x轴反向
-`plt.gca().invert_xaxis()`  
-`ax.invert_xaxis()`
+{% highlight python %}
+plt.gca().invert_xaxis()
+ax.invert_xaxis()
+{% endhighlight %}
 
 ### 关闭、隐藏x轴刻度标签
-`plt.setp(ax[i].get_xticklabels(), visible=False)`
+{% highlight python %}
+plt.setp(ax[i].get_xticklabels(), visible=False)
+{% endhighlight %}
 
 ### 关闭y轴主/次刻度
-`plt.setp(ax.get_yticklines(minor=True), visible=False)`
+{% highlight python %}
+plt.setp(ax.get_yticklines(minor=True), visible=False)
+{% endhighlight %}
 
 ### imshow自定义长宽比（像素不固定为正方形/自动拉伸像素）
-`ax.imshow(data, aspect='auto')`
-
+{% highlight python %}
+ax.imshow(data, aspect='auto')
+{% endhighlight %}
 
 ### 显示坐标网格（只对主刻度显示）
-`plt.grid(True,ls=':',lw=0.2,zorder=1,color='dimgray', which="major")`
-只画x轴的网格
-`ax.xaxis.grid(True)`
+{% highlight python %}
+plt.grid(True,ls=':',lw=0.2,zorder=1,color='dimgray', which="major")
+#只画x轴的网格
+ax.xaxis.grid(True)
+{% endhighlight %}
 
 ### text文本右侧/上端/中心对齐
-`plt.text(ha='right', va='top')`
-`plt.text(va='center')`
+{% highlight python %}
+plt.text(ha='right', va='top')
+plt.text(va='center')
+{% endhighlight %}
 
 ### text文本参照ax百分比确定位置，调整行距
-`plt.text(transform = ax.transAxes, linespacing=1.5)`
+{% highlight python %}
+plt.text(transform = ax.transAxes, linespacing=1.5)
+{% endhighlight %}
 
 ### 获得轴的上下限
-{% highlight python %}ax.get_xlim(){% endhighlight %}
+{% highlight python %}
+ax.get_xlim()
+{% endhighlight %}
 
 ### 随机选1/10的点
 {% highlight python %}
