@@ -62,8 +62,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
     *Empirical temperature and extinction dependent extinction coefficients and 3D extinction law*  
     Yichang, China, Aug, 2022
 5.	**CSST 2022/23 Annual Scientific Meeting**    
-    *On Precise Correction of the Milky Way Dust Extinction* 
-    Beijing, China, Mar, 2023
+    *On Precise Correction of the Milky Way Dust Extinction* <div style="text-align:right;"> Beijing, China, Mar, 2023</div>
 6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society**  
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Wuhan, China, Apr, 2023 </div>
