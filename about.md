@@ -34,7 +34,7 @@ Interstellar dust, diffuse interstellar bands, and the large-scale structure of 
 
     
 ## Awards
-+ 2021 &emsp;&emsp;&emsp;&ensp; National scholarship
++ 2021 &emsp;&emsp;&emsp;&ensp;&ensp; National scholarship
 + 2020, 2022 &emsp; Academic first-class scholarship
 
 
