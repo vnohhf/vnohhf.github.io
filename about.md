@@ -12,8 +12,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 
 ## Education  
-2015.09 – 2019.06 ｜ Department of Astronomy, Beijing Normal University ｜ Master  
-2019.09 – present ｜ Department of Astronomy, Beijing Normal University ｜ Doctor  
+2015.9 – 2019.6 ｜ Department of Astronomy, Beijing Normal University ｜ Master  
+2019.9 – present ｜ Department of Astronomy, Beijing Normal University ｜ Doctor  
 (Supervisor: Haibo, Yuan)
 
 
@@ -34,7 +34,7 @@ Interstellar dust, diffuse interstellar bands, and the large-scale structure of 
 
     
 ## Awards
-+ 2021 &emsp;&emsp;&ensp; National scholarship
++ 2021 &emsp;&emsp;&emsp;&ensp; National scholarship
 + 2020, 2022 &emsp; Academic first-class scholarship
 
 
