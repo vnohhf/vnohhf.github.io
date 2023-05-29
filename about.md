@@ -1,8 +1,52 @@
 ---
 layout: page
 title: About
+date: 2023-05-29 14:18 +0800
+tags: []
+toc:  true
+math: true
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+# Ruoyi, Zhang
+zry@mail.bnu.edu.cn ｜ Beijing, China
+
+
+## Education  
+2015.09 – 2019.06 | Department of Astronomy, Beijing Normal University | Master
+2019.09 – present | Department of Astronomy, Beijing Normal University | Doctor
+
+(Supervisor: Haibo, Yuan)
+
+
+## Research Interests
+Interstellar dust, diffuse interstellar bands, and the large-scale structure of the Milky way.
+
+
+## Finished Projects
+
+1.	### [Detections of Dust in the Outskirts of M31 and M33](https://iopscience.iop.org/article/10.3847/2041-8213/abccc4) (Published in ApJL)  
+    We using about 0.2 million stars selected from the LAMOST data and combining precise photometry and parallaxes from the Gaia DR2, we have constructed a two-dimensional foreground dust reddening map toward the M31 and M33 region. From our revealed map of extragalactic dust, we found the dust disk of M31 and M33 extend to about 2.5 times their optical radius. A large amount of dust is detected in the M31 halo out to over 100 kpc.
+
+2.	### [Stellar Color Loci of Red Giant Stars in SDSS Stripe 82](https://iopscience.iop.org/article/10.1088/1674-4527/21/12/319) (Published in Research in Astronomy and Astrophysics (RAA))
+    We present the metallicity-dependent Sloan Digital Sky Survey (SDSS) stellar color loci of red giant stars, using a spectroscopic sample of red giants in the SDSS Stripe 82. With good photometry, photometric metallicities of red giants can be reliably determined to an accuracy of 0.2 – 0.25 dex, comparable to the precision achievable with low-resolution spectroscopy for a signal-to-noise ratio of 10. We also propose a new technique to discriminate between red giants and MS stars based on the SDSS photometry. The technique achieves completeness of ∼70 percent and efficiency of ∼80 percent in selecting metal-poor red giant stars of \[Fe/H\] ≤ –1.2.
+
+3.	### [Empirical Temperature- and Extinction-Dependent Extinction Coefficients](https://iopscience.iop.org/article/10.3847/1538-4365/ac9dfa)  (Published in ApJS)
+    We have obtained accurate dust reddening from far-ultraviolet to the mid-infrared for up to 5 million stars by the star-pair algorithm based on LAMOST stellar parameters along with GALEX, Pan-STARRS 1, Gaia, SDSS, 2MASS, and WISE photometric data. And we derived the empirical reddening coefficients for 21 colors both in the traditional (single valued) way and as a function of ${\rm T_{eff}}$ and E(B-V). Comparisons with measurements in the literature show that the ${\rm T_{eff}}$ - and E(B-V)-dependent coefficients explain the discrepancies between different measurements naturally, i.e., using sample stars of different temperatures and reddening. A Python package [*extinction_coefficient*](https://github.com/vnohhf/extinction_coefficient) is also provided for the usage of the coefficients.
+
+    
+## Awards
++ 2021 &emsp;&emsp;&emsp; National scholarship
++ 2020, 2022 &emsp; Academic first-class scholarship
+
+
+## Hobbies
+Chinese calligraphy, biology, movies, and pure music (especially postrock and Ambient).
+
+
+## Publications
+1.	**Ruoyi, Z**. and Haibo, Y., 2020. Detections of Dust in the Outskirts of M31 and M33. The Astrophysical Journal Letters, 905(2), p.L20.
+2.	**Zhang, R.Y.**, Yuan, H.B., Liu, X.W., Xiang, M.S., Huang, Y. and Chen, B.Q., 2022. Stellar loci IV. red giant stars. Research in Astronomy and Astrophysics, 21(12), p.319.
+3.	**Zhang, R.** and Yuan, H., 2022. Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE pass¬bands. The Astrophysical Journal Supplement Series 264.1 (2022): 14.
+4.	Yang, L., Yuan, H., **Zhang, R.**, Niu, Z., Huang, Y., Duan, F. and Fang, Y., 2021. Correction to the photometric magnitudes of the Gaia Early Data Release 3. The Astrophysical Journal Letters, 908(2), p.L24.
+5.	Xu, S., Yuan, H., **Zhang, R.**, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
