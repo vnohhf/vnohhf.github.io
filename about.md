@@ -12,7 +12,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 
 ## Education  
-2015.09 – 2019.06 | Department of Astronomy, Beijing Normal University | Master
+2015.09 – 2019.06 | Department of Astronomy, Beijing Normal University | Master  
 2019.09 – present | Department of Astronomy, Beijing Normal University | Doctor
 
 (Supervisor: Haibo, Yuan)
@@ -31,11 +31,11 @@ Interstellar dust, diffuse interstellar bands, and the large-scale structure of 
     We present the metallicity-dependent Sloan Digital Sky Survey (SDSS) stellar color loci of red giant stars, using a spectroscopic sample of red giants in the SDSS Stripe 82. With good photometry, photometric metallicities of red giants can be reliably determined to an accuracy of 0.2 – 0.25 dex, comparable to the precision achievable with low-resolution spectroscopy for a signal-to-noise ratio of 10. We also propose a new technique to discriminate between red giants and MS stars based on the SDSS photometry. The technique achieves completeness of ∼70 percent and efficiency of ∼80 percent in selecting metal-poor red giant stars of \[Fe/H\] ≤ –1.2.
 
 3.	### [Empirical Temperature- and Extinction-Dependent Extinction Coefficients](https://iopscience.iop.org/article/10.3847/1538-4365/ac9dfa)  (Published in ApJS)
-    We have obtained accurate dust reddening from far-ultraviolet to the mid-infrared for up to 5 million stars by the star-pair algorithm based on LAMOST stellar parameters along with GALEX, Pan-STARRS 1, Gaia, SDSS, 2MASS, and WISE photometric data. And we derived the empirical reddening coefficients for 21 colors both in the traditional (single valued) way and as a function of ${\rm T_{eff}}$ and E(B-V). Comparisons with measurements in the literature show that the ${\rm T_{eff}}$ - and E(B-V)-dependent coefficients explain the discrepancies between different measurements naturally, i.e., using sample stars of different temperatures and reddening. A Python package [*extinction_coefficient*](https://github.com/vnohhf/extinction_coefficient) is also provided for the usage of the coefficients.
+    We have obtained accurate dust reddening from far-ultraviolet to the mid-infrared for up to 5 million stars by the star-pair algorithm based on LAMOST stellar parameters along with GALEX, Pan-STARRS 1, Gaia, SDSS, 2MASS, and WISE photometric data. And we derived the empirical reddening coefficients for 21 colors both in the traditional (single valued) way and as a function of \\\({\rm T_{eff}}\\\) and E(B-V). Comparisons with measurements in the literature show that the \\\({\rm T_{eff}}\\\) - and E(B-V)-dependent coefficients explain the discrepancies between different measurements naturally, i.e., using sample stars of different temperatures and reddening. A Python package [`extinction_coefficient`](https://github.com/vnohhf/extinction_coefficient) is also provided for the usage of the coefficients.
 
     
 ## Awards
-+ 2021 &emsp;&emsp;&emsp; National scholarship
++ 2021 &emsp;&emsp;&ensp; National scholarship
 + 2020, 2022 &emsp; Academic first-class scholarship
 
 
