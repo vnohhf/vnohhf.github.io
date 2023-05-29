@@ -18,7 +18,9 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 </div>
 
 ## Research Interests
-Interstellar dust, diffuse interstellar bands, and the large-scale structure of the Milky way.
+- Interstellar dust  
+- Diffuse interstellar bands (DIBs)  
+- The large-scale structure of the Milky Way
 
 
 ## Finished Projects
@@ -34,8 +36,8 @@ Interstellar dust, diffuse interstellar bands, and the large-scale structure of 
 
     
 ## Awards
-+ 2021 &emsp;&emsp;&emsp;&emsp;&nbsp;  National scholarship
-+ 2020, 2022 &emsp;                    Academic first-class scholarship
++ 2021 &emsp;&emsp;&emsp;&emsp;  National scholarship
++ 2020, 2022 &emsp;              Academic first-class scholarship
 
 
 ## Hobbies
