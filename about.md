@@ -12,9 +12,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 
 ## Education  
-2015.09 – 2019.06 | Department of Astronomy, Beijing Normal University | Master  
-2019.09 – present | Department of Astronomy, Beijing Normal University | Doctor
-
+2015.09 – 2019.06 ｜ Department of Astronomy, Beijing Normal University ｜ Master  
+2019.09 – present ｜ Department of Astronomy, Beijing Normal University ｜ Doctor  
 (Supervisor: Haibo, Yuan)
 
 
