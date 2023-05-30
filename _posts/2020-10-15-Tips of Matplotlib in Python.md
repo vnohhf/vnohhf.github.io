@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Tips of Matplotlib in Python (画图小技巧)
+title: Tips of Matplotlib in Python
 tags: [python,matplotlib]
 categories: [Python]
 toc:  true
 math: true
 ---
+有关于Python中Matplotlib的一些画图小技巧——在多年实践中收集整理，持续更新
+{: .message }
 
 # 颜色棒(colorbar)相关
 
