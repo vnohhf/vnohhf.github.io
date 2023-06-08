@@ -97,6 +97,8 @@ plt.setp(ax.get_yticklines(minor=True), visible=False)
 ### 图的右侧添加刻度和标签
 {% highlight python %}
 ax.tick_params(right = True, labelright = True)
+# 打开上侧次要刻度
+ax.tick_params(top = True, which='minor')
 {% endhighlight %}
 
 ### 双y轴/创建副y轴的ax
