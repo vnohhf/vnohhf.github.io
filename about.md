@@ -67,6 +67,9 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society**  
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Wuhan, China, Apr, 2023 </div>
+7.  **2023 LAMOST User Training Session**
+    *On Precise Correction of the Milky Way Dust Extinction*  
+    <div style="text-align:right;"> Beijing, China, Jun, 2023 </div>
 
 ## Hobbies
 Chinese calligraphy, biology, movies, and pure music (especially postrock and Ambient).
