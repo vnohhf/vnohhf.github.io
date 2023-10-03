@@ -65,16 +65,16 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 4.	**9th Interstellar Physics and Chemistry Symposium**    
     *Empirical temperature- and extinction-dependent extinction coefficients and 3D extinction law*  
     <div style="text-align:right;"> Yichang, China, Aug, 2022 </div>
-5.	**[CSST 2022/23 Annual Scientific Meeting](https://csst2023.casconf.cn)**    
+5.	**CSST 2022/23 Annual Scientific Meeting[🔗](https://csst2023.casconf.cn)**    
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Beijing, China, Mar, 2023 </div>
-6.	**[The 14th Zhang Heng Symposium of the Chinese Astronomical Society](https://zhangheng2023.casconf.cn)**  
+6.	**The 14th Zhang Heng Symposium of the Chinese Astronomical Society[🔗](https://zhangheng2023.casconf.cn)**  
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Wuhan, China, Apr, 2023 </div>
 7.  **2023 LAMOST User Training Session**
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Beijing, China, Jun, 2023 </div>
-8.  **[The 13th meeting on Cosmic Dust](https://www.cps-jp.org/~dust/Welcome.html)**
+8.  **The 13th meeting on Cosmic Dust[🔗](https://www.cps-jp.org/~dust/Welcome.html)**
     *On Precise Correction of the Milky Way Dust Extinction*  
     <div style="text-align:right;"> Kitakyushu, Japan, Jul, 2023 </div>
 
