@@ -42,7 +42,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 ## Publications
 1.	<u>Ruoyi, Z.</u> and Haibo, Y., 2020. Detections of Dust in the Outskirts of M31 and M33. The Astrophysical Journal Letters, 905(2), p.L20.
-2.	<u>Zhang, R.Y.</u>, Yuan, H.B., Liu, X.W., Xiang, M.S., Huang, Y. and Chen, B.Q., 2022. Stellar loci IV. red giant stars. Research in Astronomy and Astrophysics, 21(12), p.319.
+2.	<u>Zhang, R.Y.</u>, Yuan, H.B., Liu, X.W., Xiang, M.S., Huang, Y. and Chen, B.Q., 2021. Stellar loci IV. red giant stars. Research in Astronomy and Astrophysics, 21(12), p.319.
 3.	<u>Zhang, R.Y.</u> and Yuan, H., 2022. Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE passbands. The Astrophysical Journal Supplement Series 264.1 (2022): 14.
 4.	Yang, L., Yuan, H., <u>Zhang, R.Y.</u>, Niu, Z., Huang, Y., Duan, F. and Fang, Y., 2021. Correction to the photometric magnitudes of the Gaia Early Data Release 3. The Astrophysical Journal Letters, 908(2), p.L24.
 5.	Yuan, H.B. and <u>Zhang, R.Y.</u>, 2021. Application of Star-Pairing Method in the Large-Scale Sky Survey Era. Science Popularization in University, 15(2), p.59-61.
