@@ -45,8 +45,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 2.	<u>Zhang, R.Y.</u>, Yuan, H.B., Liu, X.W., Xiang, M.S., Huang, Y. and Chen, B.Q., 2022. Stellar loci IV. red giant stars. Research in Astronomy and Astrophysics, 21(12), p.319.
 3.	<u>Zhang, R.Y.</u> and Yuan, H., 2022. Empirical temperature- and extinction-dependent extinction coefficients for the GALEX, Pan-STARRS1, Gaia, SDSS, 2MASS, and WISE passbands. The Astrophysical Journal Supplement Series 264.1 (2022): 14.
 4.	Yang, L., Yuan, H., <u>Zhang, R.Y.</u>, Niu, Z., Huang, Y., Duan, F. and Fang, Y., 2021. Correction to the photometric magnitudes of the Gaia Early Data Release 3. The Astrophysical Journal Letters, 908(2), p.L24.
-5.	Xu, S., Yuan, H., <u>Zhang, R.Y.</u>, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
-6.	Yuan, H.B. and <u>Zhang, R.Y.</u>, 2021. Application of Star-Pairing Method in the Large-Scale Sky Survey Era. Science Popularization in University, 15(2), p.59-61.
+5.	Yuan, H.B. and <u>Zhang, R.Y.</u>, 2021. Application of Star-Pairing Method in the Large-Scale Sky Survey Era. Science Popularization in University, 15(2), p.59-61.
+6.	Xu, S., Yuan, H., <u>Zhang, R.Y.</u>, Li, H., Beers, T.C. and Huang, Y., 2022. Stellar Loci VI: An Updated Catalog of the Best and Brightest Metal-poor Stars. The Astrophysical Journal Supplement Series, 263(2), p.29.
 7.	<u>Zhang, R.Y.</u> and Yuan, H., 2022. Empirical Temperature-and Extinction-dependent Extinction Coefficients for the GALEX, Pan-STARRS 1, Gaia, SDSS, 2MASS, and WISE Passbands. The Astrophysical Journal Supplement Series, 264(1), p.14.
 8.	Yi, F., Haibo, Y., <u>Ruoyi, Z.</u>, Jian, G. and Shuai, X., 2023. Empirical extinction coefficients for the Swift-UVOT optical-through-ultraviolet passbands. Monthly Notices of the Royal Astronomical Society, 525(2), pp.2701-2707.
 9.	Xiao, K., Yuan, H., Huang, B., <u>Zhang, R.Y.</u>, Yang, L. and Xu, S., 2023. Improvement of Pan-STARRS Photometric Calibration with LAMOST and Gaia. The Astrophysical Journal Supplement Series, 268(2), p.53.
