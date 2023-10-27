@@ -39,8 +39,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 
 ## Awards
-+ 2021 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;  National Scholarship of China
-+ 2020, 2022, 2023  &nbsp;             Academic First-class Scholarship (Beijing Normal University)
++ 2021 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  National Scholarship of China
++ 2020, 2022, 2023  &nbsp;                   Academic First-class Scholarship (Beijing Normal University)
 
 
 ## Publications
@@ -80,6 +80,9 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 8.  **The 13th meeting on Cosmic Dust[🔗](https://www.cps-jp.org/~dust/Welcome.html)**   
     *On Precise Correction of the Milky Way Dust Extinction*    
     <div style="text-align:right;"> Kitakyushu, Japan, Jul, 2023 </div>  
+9.  **Annual Conference on Molecular Clouds and Star Formation[🔗](https://sf2023.kiaa-pku.cn)**   
+    *An RV Map of the Milky Way Revealed by LAMOST*    
+    <div style="text-align:right;"> chongqing, China, Oct, 2023 </div>  
 
 ## Hobbies
 Chinese calligraphy, movies, biology, and pure music (especially postrock and Ambient).
