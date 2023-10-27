@@ -52,7 +52,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 6.	<u>Zhang, R.Y.</u> and Yuan, H., 2022. Empirical Temperature-and Extinction-dependent Extinction Coefficients for the GALEX, Pan-STARRS 1, Gaia, SDSS, 2MASS, and WISE Passbands. The Astrophysical Journal Supplement Series, 264(1), p.14.
 7.	Yi, F., Haibo, Y., <u>Ruoyi, Z.</u>, Jian, G. and Shuai, X., 2023. Empirical extinction coefficients for the Swift-UVOT optical-through-ultraviolet passbands. Monthly Notices of the Royal Astronomical Society, 525(2), pp.2701-2707.
 8.	Xiao, K., Yuan, H., Huang, B., <u>Zhang, R.Y.</u>, Yang, L. and Xu, S., 2023. Improvement of Pan-STARRS Photometric Calibration with LAMOST and Gaia. The Astrophysical Journal Supplement Series, 268(2), p.53.
-9.	
+9.	<u>Zhang, R.Y.</u>, Yuan, H. and Chen, B., 2023. An Rv map of the Milky Way revealed by LAMOST. The Astrophysical Journal Supplement Series, arXiv:2309.04113.
 
 
 ## Talks
