@@ -12,6 +12,7 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 
 ## Education  
 2019.9 – present ｜ Department of Astronomy, Beijing Normal University ｜ Doctor  
+2023.12 – 2024.12 ｜ Max Planck Institute for Astronomy ｜ Visiting Ph.D student
 2015.9 – 2019.6 &nbsp;｜ Department of Astronomy, Beijing Normal University ｜ Bachelor  
 <div style="text-align:right;">
     (Supervisor: Haibo, Yuan)
