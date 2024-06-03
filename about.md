@@ -83,7 +83,10 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
     <div style="text-align:right;"> Kitakyushu, Japan, Jul, 2023 </div>  
 9.  **Annual Conference on Molecular Clouds and Star Formation[🔗](https://sf2023.kiaa-pku.cn)**   
     *An RV Map of the Milky Way Revealed by LAMOST*    
-    <div style="text-align:right;"> chongqing, China, Oct, 2023 </div>  
+    <div style="text-align:right;"> Chongqing, China, Oct, 2023 </div>  
+10. **CSST 2024 Annual Scientific Meeting[🔗](https://csst2024.casconf.cn)**   
+    *An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST*    
+    <div style="text-align:right;"> Hangzhou, China, May, 2024 </div>  
 
 ## Hobbies
 Chinese calligraphy, movies, biology, and pure music (especially postrock and Ambient).
