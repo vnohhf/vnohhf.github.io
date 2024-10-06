@@ -38,6 +38,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 4.	### [An Rv Map of the Milky Way Revealed by LAMOST](https://iopscience.iop.org/article/10.3847/1538-4365/acf764) <sub>*(Published in ApJS)*</sub>
     By utilizing accurate color excess measurements from the optical to the mid-infrared range, we have derived \\\(R_{V}\\\) values for approximately three million stars from LAMOST DR7 using a forward-modeling technique. This extensive data set enables us to construct a comprehensive 2D \\\(R_{V}\\\) map of the Milky Way within the LAMOST footprint at a spatial resolution of ∼27.'5. Based on reliable sight lines of E(B−V)>0.1, we find that \\\(R_{V}\\\) exhibits a Gaussian distribution centered around 3.25 with a standard deviation of 0.25. The spatial variability of \\\(R_{V}\\\) in the Galactic disk exhibits a wide range, spanning from small scales within individual molecular clouds to large scales up to kiloparsecs. A striking correlation is observed between the distribution of \\\(R_{V}\\\) and molecular clouds. Notably, we observe lower \\\(R_{V}\\\) values within the regions of nearby molecular clouds compared to their surrounding areas. Furthermore, we have investigated the relationships between \\\(R_{V}\\\) and various parameters, including dust temperature, dust emissivity spectral index, column densities and ratios of atomic and molecular hydrogen, as well as the gas-to-dust ratio. We find that these relationships vary with the level of extinction. These analyses provide new insights into the properties and evolution of dust grains in diverse interstellar environments and also hold significant importance for achieving accurate extinction corrections.
 
+5. ### [An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST](https://iopscience.iop.org/article/10.3847/1538-4357/ad613e) <sub>*(Published in ApJ)*</sub>
+    We present a direct measurement of extinction curves using corrected Gaia XP spectra of the common sources in Gaia DR3 and LAMOST DR7. Our analysis of approximately 370,000 high-quality samples yielded a high-precision average extinction curve for the Milky Way. After incorporating infrared photometric data from Two Micron All Sky Survey and Wide-field Infrared Survey Explorer, the extinction curve spans wavelengths from 0.336 to 4.6 μm. We determine an average R55 of 2.730 ± 0.007, corresponding to RV = 3.073 ± 0.009, and a near-infrared power-law index α of 1.935 ± 0.037. Our study confirmed some intermediate-scale structures within the optical range. One new feature was identified at 540 nm, and its intensity exhibited a correlation with extinction. This extinction curve can be used to investigate the characteristics of dust and enhance the extinction correction of Milky Way stars. A Python package for this extinction curve is available.
 
 ## Awards
 + 2021 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  National Scholarship of China
@@ -54,6 +56,8 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 7.	Yi, F., Haibo, Y., <u>Ruoyi, Z.</u>, Jian, G. and Shuai, X., 2023. Empirical extinction coefficients for the Swift-UVOT optical-through-ultraviolet passbands. Monthly Notices of the Royal Astronomical Society, 525(2), pp.2701-2707.
 8.	Xiao, K., Yuan, H., Huang, B., <u>Zhang, R.Y.</u>, Yang, L. and Xu, S., 2023. Improvement of Pan-STARRS Photometric Calibration with LAMOST and Gaia. The Astrophysical Journal Supplement Series, 268(2), p.53.
 9.	<u>Zhang, R.</u>, Yuan, H. and Chen, B., 2023. An RV Map of the Milky Way Revealed by LAMOST. The Astrophysical Journal Supplement Series, 269(1), p.6.
+10.	<u>Zhang, R.</u>, Yuan, H., Huang, B., Wang, T., Yang, L., Green, G.M. and Zhang, X., 2024. An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST. The Astrophysical Journal, 971(2), p.127.
+
 
 
 ## Talks
@@ -87,6 +91,9 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 10. **CSST 2024 Annual Scientific Meeting[🔗](https://csst2024.casconf.cn)**   
     *An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST*    
     <div style="text-align:right;"> Hangzhou, China, May, 2024 </div>  
+11. **New Computational Methods in Milky Way Dynamics and Structure[🔗](https://sites.google.com/cfa.harvard.edu/mwmethods/home?authuser=0)**
+    *A Tale of Two Dust Disks in Our Milky Way*
+    <div style="text-align:right;"> Bavaria, Germany, July, 2024 </div>  
 
 ## Hobbies
 Chinese calligraphy, movies, biology, and pure music (especially postrock and Ambient).
