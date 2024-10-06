@@ -56,7 +56,10 @@ zry@mail.bnu.edu.cn ｜ Beijing, China
 7.	Yi, F., Haibo, Y., <u>Ruoyi, Z.</u>, Jian, G. and Shuai, X., 2023. Empirical extinction coefficients for the Swift-UVOT optical-through-ultraviolet passbands. Monthly Notices of the Royal Astronomical Society, 525(2), pp.2701-2707.
 8.	Xiao, K., Yuan, H., Huang, B., <u>Zhang, R.Y.</u>, Yang, L. and Xu, S., 2023. Improvement of Pan-STARRS Photometric Calibration with LAMOST and Gaia. The Astrophysical Journal Supplement Series, 268(2), p.53.
 9.	<u>Zhang, R.</u>, Yuan, H. and Chen, B., 2023. An RV Map of the Milky Way Revealed by LAMOST. The Astrophysical Journal Supplement Series, 269(1), p.6.
-10.	<u>Zhang, R.</u>, Yuan, H., Huang, B., Wang, T., Yang, L., Green, G.M. and Zhang, X., 2024. An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST. The Astrophysical Journal, 971(2), p.127.
+10.	Yang, L., Yuan, H., Duan, F., <u>Zhang, R</u>., Huang, B., Xiao, K., Xu, S. and Zhang, J., 2024. A Star-based Method for the Precise Flux Calibration of the Chinese Space Station Telescope Slitless Spectroscopic Survey. The Astrophysical Journal Supplement Series, 271(2), p.37.
+11.	Huang, B., Yuan, H., Xiang, M., Huang, Y., Xiao, K., Xu, S., <u>Zhang, R.</u>, Yang, L., Niu, Z. and Gu, H., 2024. A comprehensive correction of the Gaia DR3 XP spectra. The Astrophysical Journal Supplement Series, 271(1), p.13.
+12.	Lu, X., Yuan, H., Xu, S., <u>Zhang, R</u>., Xiao, K., Huang, Y., Beers, T.C. and Hong, J., 2024. Stellar Loci. VII. Photometric Metallicities of 5 Million FGK Stars Based on GALEX GR6+ 7 AIS and Gaia EDR3. The Astrophysical Journal Supplement Series, 271(1), p.26.
+13.	<u>Zhang, R.</u>, Yuan, H., Huang, B., Wang, T., Yang, L., Green, G.M. and Zhang, X., 2024. An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST. The Astrophysical Journal, 971(2), p.127.
 
 
 
