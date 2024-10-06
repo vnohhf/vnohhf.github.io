@@ -7,7 +7,7 @@ math: true
 
 
 # Ruoyi, Zhang
-zry@mail.bnu.edu.cn ｜ Beijing, China
+zry@mail.bnu.edu.cn ｜ Pingxiang, Jiangxi, China
 
 
 ## Education  
