@@ -42,7 +42,7 @@ zry@mail.bnu.edu.cn ｜ Pingxiang, Jiangxi, China
     We present a direct measurement of extinction curves using corrected Gaia XP spectra of the common sources in Gaia DR3 and LAMOST DR7. Our analysis of approximately 370,000 high-quality samples yielded a high-precision average extinction curve for the Milky Way. After incorporating infrared photometric data from Two Micron All Sky Survey and Wide-field Infrared Survey Explorer, the extinction curve spans wavelengths from 0.336 to 4.6 μm. We determine an average R55 of 2.730 ± 0.007, corresponding to RV = 3.073 ± 0.009, and a near-infrared power-law index α of 1.935 ± 0.037. Our study confirmed some intermediate-scale structures within the optical range. One new feature was identified at 540 nm, and its intensity exhibited a correlation with extinction. This extinction curve can be used to investigate the characteristics of dust and enhance the extinction correction of Milky Way stars. A Python package for this extinction curve is available.
 
 ## Awards
-+ 2021，2024 &emsp;&emsp;&emsp;&emsp;&ensp;  National Scholarship of China
++ 2021, 2024 &emsp;&emsp;  National Scholarship of China
 + 2020, 2022, 2023  &nbsp;                   Academic First-class Scholarship (Beijing Normal University)
 
 
