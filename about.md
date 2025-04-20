@@ -42,7 +42,7 @@ zry@mail.bnu.edu.cn ｜ Pingxiang, Jiangxi, China
     We present a direct measurement of extinction curves using corrected Gaia XP spectra of the common sources in Gaia DR3 and LAMOST DR7. Our analysis of approximately 370,000 high-quality samples yielded a high-precision average extinction curve for the Milky Way. After incorporating infrared photometric data from Two Micron All Sky Survey and Wide-field Infrared Survey Explorer, the extinction curve spans wavelengths from 0.336 to 4.6 μm. We determine an average R55 of 2.730 ± 0.007, corresponding to RV = 3.073 ± 0.009, and a near-infrared power-law index α of 1.935 ± 0.037. Our study confirmed some intermediate-scale structures within the optical range. One new feature was identified at 540 nm, and its intensity exhibited a correlation with extinction. This extinction curve can be used to investigate the characteristics of dust and enhance the extinction correction of Milky Way stars. A Python package for this extinction curve is available.
 
 ## Awards
-+ 2021 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  National Scholarship of China
++ 2021，2024 &emsp;&emsp;&emsp;&emsp;&ensp;  National Scholarship of China
 + 2020, 2022, 2023  &nbsp;                   Academic First-class Scholarship (Beijing Normal University)
 
 
@@ -60,6 +60,7 @@ zry@mail.bnu.edu.cn ｜ Pingxiang, Jiangxi, China
 11.	Huang, B., Yuan, H., Xiang, M., Huang, Y., Xiao, K., Xu, S., <u>Zhang, R.</u>, Yang, L., Niu, Z. and Gu, H., 2024. A comprehensive correction of the Gaia DR3 XP spectra. The Astrophysical Journal Supplement Series, 271(1), p.13.
 12.	Lu, X., Yuan, H., Xu, S., <u>Zhang, R</u>., Xiao, K., Huang, Y., Beers, T.C. and Hong, J., 2024. Stellar Loci. VII. Photometric Metallicities of 5 Million FGK Stars Based on GALEX GR6+ 7 AIS and Gaia EDR3. The Astrophysical Journal Supplement Series, 271(1), p.26.
 13.	<u>Zhang, R.</u>, Yuan, H., Huang, B., Wang, T., Yang, L., Green, G.M. and Zhang, X., 2024. An Empirical Extinction Curve Revealed by Gaia XP Spectra and LAMOST. The Astrophysical Journal, 971(2), p.127.
+14.	Long, G., Yuan, H., Xu, S., Wang, C., <u>Zhang, R.</u> and Huang, B., 2025. The Vertical Metallicity Gradient of the Galactic Disk for Mono-age Stellar Populations in LAMOST. The Astrophysical Journal, 983(1), p.51.
 
 
 
